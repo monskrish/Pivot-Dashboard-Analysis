@@ -10,9 +10,7 @@ This project demonstrates data cleaning, the creation of pivot tables, interacti
 - **Slicers**: Added interactivity for dynamic filtering and analysis.  
 
 ## Dashboard Preview  
-![Dashboard Preview](dashboard.png)  
-
-> Replace `dashboard.png` with the actual image file name of your dashboard after adding it to your repository.  
+![Dashboard Preview](BikeSales.png)  
 
 ## How to Use  
 1. Clone this repository:  
